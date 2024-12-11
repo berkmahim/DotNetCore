@@ -15,3 +15,4 @@
 /home/berkm/RiderProjects/FinalProject/Business/obj/Debug/net9.0/refint/Business.dll
 /home/berkm/RiderProjects/FinalProject/Business/obj/Debug/net9.0/Business.pdb
 /home/berkm/RiderProjects/FinalProject/Business/obj/Debug/net9.0/ref/Business.dll
+/home/berkm/RiderProjects/FinalProject/Business/obj/Debug/net9.0/Business.sourcelink.json

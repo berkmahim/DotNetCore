@@ -9,3 +9,4 @@
 /home/berkm/RiderProjects/FinalProject/Entities/obj/Debug/net9.0/refint/Entities.dll
 /home/berkm/RiderProjects/FinalProject/Entities/obj/Debug/net9.0/Entities.pdb
 /home/berkm/RiderProjects/FinalProject/Entities/obj/Debug/net9.0/ref/Entities.dll
+/home/berkm/RiderProjects/FinalProject/Entities/obj/Debug/net9.0/Entities.sourcelink.json
