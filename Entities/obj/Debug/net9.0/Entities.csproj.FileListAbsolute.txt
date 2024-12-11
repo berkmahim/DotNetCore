@@ -1,0 +1,11 @@
+/home/berkm/RiderProjects/FinalProject/Entities/bin/Debug/net9.0/Entities.deps.json
+/home/berkm/RiderProjects/FinalProject/Entities/bin/Debug/net9.0/Entities.dll
+/home/berkm/RiderProjects/FinalProject/Entities/bin/Debug/net9.0/Entities.pdb
+/home/berkm/RiderProjects/FinalProject/Entities/obj/Debug/net9.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/home/berkm/RiderProjects/FinalProject/Entities/obj/Debug/net9.0/Entities.AssemblyInfoInputs.cache
+/home/berkm/RiderProjects/FinalProject/Entities/obj/Debug/net9.0/Entities.AssemblyInfo.cs
+/home/berkm/RiderProjects/FinalProject/Entities/obj/Debug/net9.0/Entities.csproj.CoreCompileInputs.cache
+/home/berkm/RiderProjects/FinalProject/Entities/obj/Debug/net9.0/Entities.dll
+/home/berkm/RiderProjects/FinalProject/Entities/obj/Debug/net9.0/refint/Entities.dll
+/home/berkm/RiderProjects/FinalProject/Entities/obj/Debug/net9.0/Entities.pdb
+/home/berkm/RiderProjects/FinalProject/Entities/obj/Debug/net9.0/ref/Entities.dll

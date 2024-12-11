@@ -1,0 +1,17 @@
+/home/berkm/RiderProjects/FinalProject/Business/bin/Debug/net9.0/Business.deps.json
+/home/berkm/RiderProjects/FinalProject/Business/bin/Debug/net9.0/Business.dll
+/home/berkm/RiderProjects/FinalProject/Business/bin/Debug/net9.0/Business.pdb
+/home/berkm/RiderProjects/FinalProject/Business/bin/Debug/net9.0/DataAccess.dll
+/home/berkm/RiderProjects/FinalProject/Business/bin/Debug/net9.0/Entities.dll
+/home/berkm/RiderProjects/FinalProject/Business/bin/Debug/net9.0/DataAccess.pdb
+/home/berkm/RiderProjects/FinalProject/Business/bin/Debug/net9.0/Entities.pdb
+/home/berkm/RiderProjects/FinalProject/Business/obj/Debug/net9.0/Business.csproj.AssemblyReference.cache
+/home/berkm/RiderProjects/FinalProject/Business/obj/Debug/net9.0/Business.GeneratedMSBuildEditorConfig.editorconfig
+/home/berkm/RiderProjects/FinalProject/Business/obj/Debug/net9.0/Business.AssemblyInfoInputs.cache
+/home/berkm/RiderProjects/FinalProject/Business/obj/Debug/net9.0/Business.AssemblyInfo.cs
+/home/berkm/RiderProjects/FinalProject/Business/obj/Debug/net9.0/Business.csproj.CoreCompileInputs.cache
+/home/berkm/RiderProjects/FinalProject/Business/obj/Debug/net9.0/Business.csproj.Up2Date
+/home/berkm/RiderProjects/FinalProject/Business/obj/Debug/net9.0/Business.dll
+/home/berkm/RiderProjects/FinalProject/Business/obj/Debug/net9.0/refint/Business.dll
+/home/berkm/RiderProjects/FinalProject/Business/obj/Debug/net9.0/Business.pdb
+/home/berkm/RiderProjects/FinalProject/Business/obj/Debug/net9.0/ref/Business.dll
