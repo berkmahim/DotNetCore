@@ -1,3 +1,8 @@
+using Business.Abstract;
+using Business.Concrete;
+using DataAccess.Abstract;
+using DataAccess.Concrete.EntityFramework;
+
 namespace WebAPIProject;
 
 public class Program
@@ -10,7 +15,10 @@ public class Program
         builder.Services.AddAuthorization();
         builder.Services.AddOpenApi();
         builder.Services.AddControllers(); // Servisleri Build'den önce ekliyoruz
-
+        builder.Services.AddSingleton<IProductService, ProductManager>();
+        builder.Services.AddSingleton<IProductDal, EfProductDal>() ;
+        
+        
         var app = builder.Build();
 
         // Configure the HTTP request pipeline.
