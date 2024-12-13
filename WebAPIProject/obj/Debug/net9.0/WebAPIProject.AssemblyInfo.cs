@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAPIProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06f2d0000aee6f5a8a4b7cba1d0ad582f310d6df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b80b1289d406c704e9721d0e4a1c6a3498158cbc")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebAPIProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAPIProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,3 +14,5 @@
 /home/berkm/RiderProjects/FinalProject/Entities/bin/Debug/net9.0/Core.pdb
 /home/berkm/RiderProjects/FinalProject/Entities/obj/Debug/net9.0/Entities.csproj.AssemblyReference.cache
 /home/berkm/RiderProjects/FinalProject/Entities/obj/Debug/net9.0/Entities.csproj.Up2Date
+/home/berkm/RiderProjects/FinalProject/Entities/bin/Debug/net9.0/FluentValidation.dll
+/home/berkm/RiderProjects/FinalProject/Entities/bin/Debug/net9.0/FluentValidation.xml

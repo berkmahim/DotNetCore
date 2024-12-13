@@ -16,3 +16,5 @@
 /home/berkm/RiderProjects/FinalProject/DataAccess/obj/Debug/net9.0/DataAccess.sourcelink.json
 /home/berkm/RiderProjects/FinalProject/DataAccess/bin/Debug/net9.0/Core.dll
 /home/berkm/RiderProjects/FinalProject/DataAccess/bin/Debug/net9.0/Core.pdb
+/home/berkm/RiderProjects/FinalProject/DataAccess/bin/Debug/net9.0/FluentValidation.dll
+/home/berkm/RiderProjects/FinalProject/DataAccess/bin/Debug/net9.0/FluentValidation.xml
