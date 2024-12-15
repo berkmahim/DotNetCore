@@ -97,8 +97,8 @@ Proje, yazılım geliştiricilere temiz kod, SOLID prensipleri ve katmanlı mima
 ```
 NorthwindProject/
 ├── /WebAPI                    # Uygulamayı dışarıya açan katman
-├── Business/             # İş mantığını yürüten katman
-├── DataAccess/           # Veri erişim ve ORM
+├── Business/                  # İş mantığını yürüten katman
+├── DataAccess/                # Veri erişim ve ORM
 ├── Entities/                  # Veri modelleri ve DTO'\lar
 └── Program.cs                 # Uygulama giris noktasi
 
