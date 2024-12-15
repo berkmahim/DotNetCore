@@ -8,7 +8,7 @@ public class NorthwindContext : DbContext
 {
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        optionsBuilder.UseSqlServer(@"Server=172.17.0.2,1433;Database=Northwind;User Id=sa;Password=kreB9420740;TrustServerCertificate=True;");
+        optionsBuilder.UseSqlServer(@"Server=172.17.0.2,1433;Database=Northwind;User Id=sa;Password=<<>>;TrustServerCertificate=True;");
     }
 
     public DbSet<Product> Products { get; set; }
